@@ -1,6 +1,6 @@
-# Logistic regression model with PCA
+# Logistic regression model with LDA
 
-A logistic regression model with Principal component analysis to detect to which particular segment of customers a particular product should be marketed.
+A logistic regression model with Linear Discriminant Analysis to detect to which particular segment of customers a particular product should be marketed.
 
 # Model Details:
 
