@@ -6,8 +6,6 @@ A logistic regression model with Linear Discriminant Analysis to detect to which
 
 Dataset: https://gist.github.com/tijptjik/9408623
 
-Accuracy: 95.22%
-
 # Prerequisites:
 
 Numpy
