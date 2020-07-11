@@ -1,3 +1,9 @@
 # Deep-learning
 
-ANN - CNN- PCA - LDA - Kernel PCA
+ANN - Bank Churn rate prediction
+
+CNN - Dogs vs cats image classification model
+
+PCA - Logistic regression model with PCA
+
+LDA - Logistic regression model with LDA
