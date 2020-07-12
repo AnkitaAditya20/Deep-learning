@@ -9,3 +9,5 @@ PCA - Logistic regression model with PCA
 LDA - Logistic regression model with LDA
 
 Logistic Regression model of Social Network Ads
+
+Model Selection: k-Fold cross validation & Grid Search
