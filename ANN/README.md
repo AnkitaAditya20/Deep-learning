@@ -1,6 +1,6 @@
 # Bank Churn Rate prediction using ANN
 
-This ANN model predicts the churn rate of customers in a bank. This ANN model predicts customers who are more likely to exit the company. Model has 11 input nodes and 2 hidden layes, trained with stochastic gradient descent, performs binary classification with an accuracy of 0.842. 
+This ANN model predicts the churn rate of customers in a bank, customers who are more likely to exit the company. Model has 11 input nodes and 2 hidden layes, trained with stochastic gradient descent, performs binary classification with an accuracy of 0.842. 
 
 # MODEL DETAILS:
 
